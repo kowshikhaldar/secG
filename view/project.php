@@ -1,10 +1,8 @@
-
-
 <!DOCTYPE html>
 
 <html>
 
- 
+
 
 <head>
 
@@ -12,7 +10,7 @@
 
 </head>
 
- 
+
 
 <body>
 
@@ -31,14 +29,8 @@
         <input type="submit" name="submit" value="submit">
     </form>
 
- 
-
- 
-
- 
-
 </body>
 
- 
+
 
 </html>
